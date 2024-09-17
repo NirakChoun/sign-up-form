@@ -64,7 +64,7 @@ body {
 .left .brand h1 {
     font-family: "norse-bold";
     color: aliceblue;
-    font-size: 8rem;
+    font-size: 5rem;
 }
 
 .left .photo-credit {
@@ -88,11 +88,11 @@ body {
 
 .right .first {
     padding: 50px 0 0 50px;
-    margin-top: 150px;
+    margin-top: 50px;
 }
 
 .right .first p {
-    font-size: 2rem;
+    font-size: 1.7rem;
     margin-bottom: 20px;
     line-height: 1.3;
     color: white;
